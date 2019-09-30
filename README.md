@@ -1,4 +1,4 @@
-# RESERVEARCH(リザーブアーチ)
+# RESERVEARCH(リザーヴァーチ)
 
 The small app will let users to search available spot in studios (especially for a cappella / band / dance) in specific area.(not ensure that they can make a reservation)
 
