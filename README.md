@@ -1,24 +1,22 @@
-# README
+# RESERVEARCH(リザーブアーチ)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The small app will let users to search available spot in studios (especially for a cappella / band / dance) in specific area.(not ensure that they can make a reservation)
 
-Things you may want to cover:
+# Why?
+- There are so many services that cover "just" studio search
+- But what end users need to know is whether the studio is open for desired date & time
+- This app will enable users to see which studio and what time they can make a reservation
 
-* Ruby version
+# DOs
+- provide simple interface to search
+- provide as recent data as possible
+- develop flex UI
 
-* System dependencies
+# WON'Ts
+- make reservation through this app
+- user management(anyone can access this app without having account of this app)
 
-* Configuration
+# Specs
+- Ruby: 2.6.4
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+other specs will be added as development progresses
