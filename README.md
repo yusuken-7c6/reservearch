@@ -10,7 +10,7 @@ The small app will let users to search available spot in studios (especially for
 # DOs
 - provide simple interface to search
 - provide as recent data as possible
-- develop flex UI
+- develop responsive UI
 
 # WON'Ts
 - make reservation through this app
